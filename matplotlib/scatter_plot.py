@@ -9,6 +9,8 @@ plt.scatter(gdp_cap,life_exp)
 plt.xscale('log')
 plt.show()
 
+plt.clf()
+
 # Scatter plot: Life Expectancy VS. Population
 plt.scatter(pop, life_exp)
 plt.show()
